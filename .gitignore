@@ -21,7 +21,7 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
-/package-lock.json
+
 /.idea
 /public/teacher/
 storage/framework/views/
